@@ -4,12 +4,12 @@ Doing business online brings lots of fantastic opportunities – it can really h
 
 Once your business is online, what opportunities can you take advantage of?
 
-**Finding lots of new customers – everyone’s online these days**\
-**Selling your products or services straight from your website or app**\
-**Delivering targeted advertising to customers**\
+### Finding lots of new customers – everyone’s online these days**\
+### Selling your products or services straight from your website or app**\
+### Delivering targeted advertising to customers**\
 Saving money on your heating bills\
-**Learning more about what your customers love**\
-**Using analytics to power your online sales**\
+### Learning more about what your customers love**\
+### Using analytics to power your online sales**\
 
 # 2. Your digital opportunity
 
