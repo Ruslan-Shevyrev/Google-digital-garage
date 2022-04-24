@@ -1,6 +1,7 @@
 # 1. Intro to the Digital Garage
 
-## Doing business online brings lots of fantastic opportunities – it can really help your company in new and exciting ways.\
+## Doing business online brings lots of fantastic opportunities – it can really help your company in new and exciting ways.
+
 ## Once your business is online, what opportunities can you take advantage of?
 
 :heavy_check_mark: **Finding lots of new customers – everyone’s online these days**\
@@ -12,7 +13,8 @@
 
 # 2. Your digital opportunity
 
-##Karl, a 50-year-old mechanic, runs the local garage in a small town and is considering taking his business online.\
+##Karl, a 50-year-old mechanic, runs the local garage in a small town and is considering taking his business online.
+
 ##How could going digital benefit his business?
 
 :heavy_check_mark: **He’d be more visible to customers**\
