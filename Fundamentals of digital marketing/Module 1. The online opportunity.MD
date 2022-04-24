@@ -1,4 +1,4 @@
-# 1. Intro to the Digital Garage
+# 1. :eight_pointed_black_star: Intro to the Digital Garage
 
 ## Doing business online brings lots of fantastic opportunities – it can really help your company in new and exciting ways.
 
@@ -11,7 +11,7 @@
 :heavy_check_mark: **Learning more about what your customers love**\
 :heavy_check_mark: **Using analytics to power your online sales**
 
-# 2. Your digital opportunity
+# 2. :eight_pointed_black_star: Your digital opportunity
 
 ## Karl, a 50-year-old mechanic, runs the local garage in a small town and is considering taking his business online.
 
