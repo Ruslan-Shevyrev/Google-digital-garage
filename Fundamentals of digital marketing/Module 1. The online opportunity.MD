@@ -13,9 +13,9 @@
 
 # 2. Your digital opportunity
 
-##Karl, a 50-year-old mechanic, runs the local garage in a small town and is considering taking his business online.
+## Karl, a 50-year-old mechanic, runs the local garage in a small town and is considering taking his business online.
 
-##How could going digital benefit his business?
+## How could going digital benefit his business?
 
 :heavy_check_mark: **He’d be more visible to customers**\
 :heavy_check_mark: **He can target ads at local customers**\
@@ -28,28 +28,28 @@
 
 ## The increased use of the Internet presents a lot of potential for which types of businesses?
 
-**A. All businesses**\
-B. Small business owners\
-C. International businesses\
-D. Local businesses
+:heavy_check_mark: **A. All businesses**\
+:x: B. Small business owners\
+:x: C. International businesses\
+:x: D. Local businesses
 
 ## Taking a business online can involve many different steps. When starting out, which activity could be a part of this process?
 
-A. Sending flyers with your web address to customers\
-**B. Creating a business listing in online local directories**\
-C. Increasing print and billboard advertising\
-D. Building a team of digital advertising experts
+:x: A. Sending flyers with your web address to customers\
+:heavy_check_mark: **B. Creating a business listing in online local directories**\
+:x: C. Increasing print and billboard advertising\
+:x: D. Building a team of digital advertising experts
 
 ## Which of the following is the easiest way for visitors to learn about a business while visiting a website?
 
-A. Getting a free ‘taster’ of one of your products when they sign up to receive emails\
-B. Listening to an audio file that auto plays whenever someone visits your site\
-**C. Browsing your product pages and reviewing the Frequently Asked Questions page**\
-D. Reading the terms and conditions for your products on your site
+:x: A. Getting a free ‘taster’ of one of your products when they sign up to receive emails\
+:x: B. Listening to an audio file that auto plays whenever someone visits your site\
+:heavy_check_mark: **C. Browsing your product pages and reviewing the Frequently Asked Questions page**\
+:x: D. Reading the terms and conditions for your products on your site
 
 ## What is a key benefit of having an online presence for a business?
 
-A. The ability to sell products directly to customers through social media\
-**B. Being visible when people search for a business like yours**\
-C. Sending users emails to update them on new products\
-D. Being able to offer new customers promotional discounts
+:x: A. The ability to sell products directly to customers through social media\
+:heavy_check_mark: **B. Being visible when people search for a business like yours**\
+:x: C. Sending users emails to update them on new products\
+:x: D. Being able to offer new customers promotional discounts
