@@ -24,7 +24,7 @@
 :heavy_check_mark: **More insights into customers’ online behaviour**\
 :x: He can modernise his company logo
 
-# Topiq Quiz
+# Topic Quiz
 
 ## The increased use of the Internet presents a lot of potential for which types of businesses?
 
