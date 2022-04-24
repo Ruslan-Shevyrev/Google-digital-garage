@@ -4,11 +4,11 @@
 
 ## Once your business is online, what opportunities can you take advantage of?
 
-:heavy_check_mark: **Finding lots of new customers – everyone’s online these days**
-:heavy_check_mark: **Selling your products or services straight from your website or app**
-:heavy_check_mark: **Delivering targeted advertising to customers**
-:x: Saving money on your heating bills
-:heavy_check_mark: **Learning more about what your customers love**
+:heavy_check_mark: **Finding lots of new customers – everyone’s online these days**\
+:heavy_check_mark: **Selling your products or services straight from your website or app**\
+:heavy_check_mark: **Delivering targeted advertising to customers**\
+:x: Saving money on your heating bills\
+:heavy_check_mark: **Learning more about what your customers love**\
 :heavy_check_mark: **Using analytics to power your online sales**
 
 # 2. Your digital opportunity
