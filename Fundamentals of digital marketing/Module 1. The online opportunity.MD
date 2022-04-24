@@ -24,7 +24,7 @@
 :heavy_check_mark: **More insights into customers’ online behaviour**\
 :x: He can modernise his company logo
 
-# Topic Quiz
+# :eight_pointed_black_star: Topic Quiz
 
 ## :star: 1. The increased use of the Internet presents a lot of potential for which types of businesses?
 
