@@ -28,7 +28,7 @@
 :x: A. Translate your website into at least two more languages\
 :x: B. Offer free phone support during business hours\
 :x: C. Ensure you have good analytics on your website\
-:heavy_check_mark: D. **Make sure your phone number, address and business hours are easy to find**
+:heavy_check_mark: **D. Make sure your phone number, address and business hours are easy to find**
 
 ## :star: 2. Which of the following is an example of a local search?
 
@@ -40,7 +40,7 @@
 ## :star: 3. Which of the following is a benefit of registering your business in online local listings?
 
 :x: A. Discounted pricing on your search advertising campaigns\
-:heavy_check_mark: ** B. Increased likelihood of being discovered through search engines**\
+:heavy_check_mark: **B. Increased likelihood of being discovered through search engines**\
 :x: C. More mentions on social media platforms\
 :x: D. Guaranteed sales to local customers
 
