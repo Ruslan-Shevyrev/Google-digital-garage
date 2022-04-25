@@ -66,7 +66,7 @@
 
 ## :star: 3. Which term best describes the business activity that occurs when website visitors buy products or services from you online?
 
-:heavy_check_mark: **E-commerce**\
+:heavy_check_mark: **A. E-commerce**\
 :x: B. Display advertising\
 :x: C. Search engine marketing\
 :x: D. Pay per click
