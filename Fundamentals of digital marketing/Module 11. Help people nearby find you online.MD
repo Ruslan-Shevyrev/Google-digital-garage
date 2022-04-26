@@ -63,4 +63,4 @@
 :heavy_check_mark: **A. Adding relevant content that highlights the location of your business**\
 :x: B. Including your address on your Twitter account\
 :x: C. Optimising your site for desktop devices only\
-:x: D. Adding a list of shops local to you on your website 
+:x: D. Adding a list of shops local to you on your website
