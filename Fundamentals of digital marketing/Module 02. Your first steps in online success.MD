@@ -9,7 +9,7 @@
 :heavy_check_mark: **Attract new customers**\
 :heavy_check_mark: **Gather customer feedback**\
 :x: Source new hair colouring products\
-:heavy_check_mark: **Advertise extended opening hours**\
+:heavy_check_mark: **Advertise extended opening hours**
 
 # :eight_pointed_black_star: 2. Building your online presence
 
