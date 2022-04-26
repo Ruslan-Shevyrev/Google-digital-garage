@@ -28,10 +28,10 @@
 
 ## Take a look at her ideas and select the best domain name by crossing off the rest.
 
-:x: www.knead2know.com\
-:heavy_check_mark: **www.kneadtoknowbakery.com**\
-:x: www.Addies.com\
-:x: www.i-knead-it.org\
+:x: www.knead2know.com \
+:heavy_check_mark: **www.kneadtoknowbakery.com** \
+:x: www.Addies.com \
+:x: www.i-knead-it.org \
 :x: www.mybakery.com
 
 # :eight_pointed_black_star: 4. Websites and your business goals
