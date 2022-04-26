@@ -5,7 +5,7 @@
 ## What do you think Addie should set up first: a social media profile or a mobile app?
 
 :heavy_check_mark: **A social media profile**\
-:x: A mobile app\
+:x: A mobile app
 
 # :eight_pointed_black_star: 2. How websites work
 
