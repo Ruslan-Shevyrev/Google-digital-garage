@@ -49,4 +49,4 @@
 :x: A. Business address, website, telephone numbers\
 :heavy_check_mark: **B. Business name, business address, telephone numbers**\
 :x: C. Website, telephone numbers, email address\
-:x: D. Business name, email address, website 
+:x: D. Business name, email address, website
