@@ -9,7 +9,7 @@
 :heavy_check_mark: **1. Create a social media plan**\
 :heavy_check_mark: **2. Set up accounts on appropriate social media sites**\
 :heavy_check_mark: **3. Sign up to a social media management tool**\
-:heavy_check_mark: **4. Create a list of posts to be automatically posted in the coming weeks **
+:heavy_check_mark: **4. Create a list of posts to be automatically posted in the coming weeks**
 
 # :eight_pointed_black_star: 2. Advertising on social media
 
