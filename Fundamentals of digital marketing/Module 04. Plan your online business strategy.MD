@@ -27,7 +27,7 @@ He should consider paid online advertising as the sole means of promoting his bu
 
 ## Which of the brand's touchpoints should Holly modify to help address her customer's feedback?
 
-:heavy_check_mark: **Website layout\
+:heavy_check_mark: **Website layout**\
 :x: Instagram account\
 :x: Instructor's Blog\
 :heavy_check_mark: **Email marketing**
@@ -54,7 +54,7 @@ He should consider paid online advertising as the sole means of promoting his bu
 :x: Ensure 80% of clients use the gym's online system to book personal training appointments\
 :x: Increase how much money customers spend in the gym's juice bar\
 :heavy_check_mark: **A score of 85% or more in the annual survey for the question 'Would you recommend this gym to a friend?'**\
-:heavy_check_mark: **Ensure 90% of new gym members book an induction session within the first two weeks of joining*
+:heavy_check_mark: **Ensure 90% of new gym members book an induction session within the first two weeks of joining**
 
 # :eight_pointed_black_star: Topic Quiz
 
