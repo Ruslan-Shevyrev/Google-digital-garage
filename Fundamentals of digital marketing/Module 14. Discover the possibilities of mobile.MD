@@ -7,7 +7,7 @@
 ## Help him to decide which route to take first.
 
 :x: 1st picture\
-:heavy_check_mark: **2nd picture*
+:heavy_check_mark: **2nd picture**
 
 # :eight_pointed_black_star: 2. Understanding mobile web and mobile apps
 
