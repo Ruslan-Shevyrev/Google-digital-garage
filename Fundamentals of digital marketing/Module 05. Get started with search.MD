@@ -57,7 +57,7 @@ Seth will only be charged for advertising when his ad appears in the search resu
 **The paid search results are given a more prominent position on the search results page. :heavy_check_mark: TRUE**\
 **Seth will be charged for advertising only when someone clicks on his ad. :heavy_check_mark: TRUE**
 
-# :eight_pointed_black_star: 5. Google search console
+# :eight_pointed_black_star: 6. Google search console
 
 ## Seth’s website has been up and running for a while, but he isn’t sure how effective it’s been at drawing in new customers.
 
@@ -71,35 +71,42 @@ Seth will only be charged for advertising when his ad appears in the search resu
 
 ## :star: 1. What is the first step in creating an online business strategy?
 
-:heavy_check_mark: **A. Identifying business goals**\
-:x: B. Understanding what the competition is doing\
-:x: C. Knowing the market\
-:x: D. Aligning goals to the strategy
+:x: A. People pay to use search engines, so there is a wealthy customer base there\
+:heavy_check_mark: **B. People who search are actively looking for information, products or services**\
+:x: C. Search engines are a big trend these days\
+:x: D. Search engines guarantee new customers
 
-## :star: 2. What is the purpose of the ‘See, Think, Do, Care’ framework?
+## :star: 2. What technology do search engines use to ‘crawl’ websites?
 
-:x: A. To help determine a marketing strategy\
-:heavy_check_mark: **B. To help a business understand the customer journey online**\
-:x: C. To help a business reach a global audience\
-:x: D. To give insight into specific customer groups
+:x: A. Androids\
+:x: B. Interns\
+:x: C. Automatons\
+:heavy_check_mark: **D. Bots**
 
-## :star: 3. Why is optimising customer touchpoints online beneficial for businesses? 
+## :star: 3. Which of the following can help a search engine understand what your page is about?
 
-:x: A. It allows brands to add pop-up ads at every point of the customer journey, ensuring high visibility\
-:x: B. It gives businesses the opportunity to save money on online advertising\
-:heavy_check_mark: **C. It provides customers with value every time they come into contact with a brand, helping build trust**\
-:x: D. It gives businesses an opportunity to collect more data from potential customers
+:x: A. The date it was published\
+:x: B. The number of images used\
+:x: C. The total number of words\
+:heavy_check_mark: **D. The title tag**
 
-## :star: 4. Once you’ve worked out your Unique Selling Point (USP), how would you use it in a long-term online strategy? 
+## :star: 4. Fill in the blank: Spending money on search advertising influences how your website appears in ___________.
 
-:heavy_check_mark: **A. Incorporate it within marketing materials across all channels to help raise customer awareness**\
-:x: B. Create an email campaign letting your customers know why you are unique\
-:x: C. Film a video explaining your unique selling point and send it to employees\
-:x: D. Create a press release and distribute it through your channels
+:x: A. Organic search results\
+:heavy_check_mark: **B. The search results page**\
+:x: C. Business directories\
+:x: D. Display advertising networks 
 
-## :star: 5. What type of information can KPIs provide? 
+## :star: 5. Which of these is an important factor in the paid search auction system?
 
-:x: A. Audience segmentation\
-:heavy_check_mark: **B. Long-term projections**\
-:x: C. Financial viability\
-:x: D. Board decisions 
+:x: A. How famous your brand name is\
+:x: B. How cool your logo is\
+:x: C. How long your business has been around\
+:heavy_check_mark: **D. How relevant your ads are**
+
+## :star: 6. Which of these can Google Search Console help you to do?
+
+:x: A. It helps you increase your social media following\
+:x: B. It helps you optimise your Google My Business listing\
+:heavy_check_mark: **C. It helps you understand which keywords people are searching for on Google**\
+:x: D. It helps you run A/B tests on your home page
