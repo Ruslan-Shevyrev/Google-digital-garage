@@ -19,96 +19,76 @@ He should sell at a cheaper price on the website to attract more customers :x: F
 **He should identify his various online and offline audiences, and how best to engage them :heavy_check_mark: TRUE**\
 He should consider paid online advertising as the sole means of promoting his business online :x: FALSE
 
-# :eight_pointed_black_star: 3. Key website ingredients
+# :eight_pointed_black_star: 3. Understanding customer behaviour
 
-## Addie owns the Knead to Know Bakery and has decided to open a website.
+## Holly owns a dance studio. To improve sales of dance classes, she is reviewing how her marketing team could update the company's online presence.
 
-## But first she needs to choose a domain name.
+## As part of the rebrand, the team listened to customer feedback and mapped customer journeys. They identified two things online customers generally struggled with: navigating the website and finding the business's contact information.
 
-## Take a look at her ideas and select the best domain name by crossing off the rest.
+## Which of the brand's touchpoints should Holly modify to help address her customer's feedback?
 
-:x: www.knead2know.com \
-:heavy_check_mark: **www.kneadtoknowbakery.com** \
-:x: www.Addies.com \
-:x: www.i-knead-it.org \
-:x: www.mybakery.com
+:heavy_check_mark: **Website layout\
+:x: Instagram account\
+:x: Instructor's Blog\
+:heavy_check_mark: **Email marketing**
 
-# :eight_pointed_black_star: 4. Websites and your business goals
+# :eight_pointed_black_star: 4.  How to stand out from the competition
 
-## Addie is drafting a description for the About Us page of her bakery website.
+## Bobbi owns a protein shake company, which has been trading for 3 years. Her products are stocked in a number of gyms, but the company has not seen much growth in recent months. Bobbi would now like to break into the online market to boost product sales.
 
-## Which do you think works best?
+## Which of the following actions should Bobbi take to identify opportunities for online business growth?
 
-:x: Our business is driven by your vision and objective – to commit to sustainable, local produce that engages with and builds community spirit.\
-:heavy_check_mark: **Love cake? So do we. Here at knead to know Bakery we have a passion and reputation for creating the most delicious cookies, cakes and bread.**\
-:x: We are the best bakers in town. Just like that!
+:x: Hire a financial planner\
+:heavy_check_mark: **Identify a USP**\
+:x: Ship to new countries\
+:heavy_check_mark: **Build a SWOT analysis**\
+:x: Distribute feedback forms to suppliers\
+:heavy_check_mark: **Review competitor websites**
 
-# :eight_pointed_black_star: 5. Make your website easy to use
+# :eight_pointed_black_star: 5. Using goals to improve business performance
 
-## Addie wants to make her website easy to navigate.
+## Ryan has written some KPIs to help his fitness centres achieve the business goal of “improving overall client satisfaction”.
 
-## Which of the following features should Addie include on every page of her website?
+## Review these four KPIs. Which do you think fit the criteria of being specific, measurable, attainable, relevant and time-bound?
 
-:heavy_check_mark: **Side menu**\
-:x: About Us information\
-:heavy_check_mark: **Bakery logo leading to homepage**\
-:heavy_check_mark: **Search field**
-
-# :eight_pointed_black_star: 6. Website design do’s and don’ts
-
-## To make the homepage of her local bakery website interesting, Addie wants to add some media elements to it.
-
-## Different elements will cause the page to take longer to load, so she needs to get the right mix for the site.
-
-## Can you put the following elements in order from the ones with the longest load time to the shortest?
-
-:heavy_check_mark: **2 minute HD advertising video for the bakery**\
-:heavy_check_mark: **Large high res, full screen background image**\
-:heavy_check_mark: **20 second explainer animation**\
-:heavy_check_mark: **Low res compressed thumbnail image**\
-:heavy_check_mark: **Twitter button that links out to twitter page**\
-:heavy_check_mark: **Text descriptions**
+:x: Ensure 80% of clients use the gym's online system to book personal training appointments\
+:x: Increase how much money customers spend in the gym's juice bar\
+:heavy_check_mark: **A score of 85% or more in the annual survey for the question 'Would you recommend this gym to a friend?'**\
+:heavy_check_mark: **Ensure 90% of new gym members book an induction session within the first two weeks of joining*
 
 # :eight_pointed_black_star: Topic Quiz
 
-## :star: 1. Which of the following statements is true when it comes to developing a web presence for a business?
+## :star: 1. What is the first step in creating an online business strategy?
 
-:x: A. Customers can learn about a business by downloading a mobile app, but they can’t place an order using an app\
-:x: B. Building a new website requires a large budget\
-:heavy_check_mark: **С. Mobile apps enable your customers to purchase your products without being on your website**\
-:x: D. All businesses must have a website to sell products
+:heavy_check_mark: **A. Identifying business goals**\
+:x: B. Understanding what the competition is doing\
+:x: C. Knowing the market\
+:x: D. Aligning goals to the strategy
 
-## :star: 2. What is a web server?
+## :star: 2. What is the purpose of the ‘See, Think, Do, Care’ framework?
 
-:x: A. The customer service representative you can call when you have questions about your website\
-:x: B. The answer you get when you search a term on the web\
-:heavy_check_mark: **C. A computer connected to the Internet with software that allows it to host all the components of your website**\
-:x: D. The device that determines the speed of your mobile connection
+:x: A. To help determine a marketing strategy\
+:heavy_check_mark: **B. To help a business understand the customer journey online**\
+:x: C. To help a business reach a global audience\
+:x: D. To give insight into specific customer groups
 
-## :star: 3. Fill in the blank: A __________ is a shortcut to other pages on your site or elsewhere on the web.
+## :star: 3. Why is optimising customer touchpoints online beneficial for businesses? 
 
-:heavy_check_mark: **A. Hyperlink**\
-:x: B. Return link\
-:x: C. Menu bar\
-:x: D. Breadcrumb
+:x: A. It allows brands to add pop-up ads at every point of the customer journey, ensuring high visibility\
+:x: B. It gives businesses the opportunity to save money on online advertising\
+:heavy_check_mark: **C. It provides customers with value every time they come into contact with a brand, helping build trust**\
+:x: D. It gives businesses an opportunity to collect more data from potential customers
 
-## :star: 4. Which of the following statements is true when marketing your business online?
+## :star: 4. Once you’ve worked out your Unique Selling Point (USP), how would you use it in a long-term online strategy? 
 
-:x: A. Prices\
-:heavy_check_mark: **B. A lot of deep scientific information and detailed statistics**\
-:x: C. Special offers\
-:x: D. Certifications to show you’re qualified to provide a service
+:heavy_check_mark: **A. Incorporate it within marketing materials across all channels to help raise customer awareness**\
+:x: B. Create an email campaign letting your customers know why you are unique\
+:x: C. Film a video explaining your unique selling point and send it to employees\
+:x: D. Create a press release and distribute it through your channels
 
-## :star: 5. Which of the following is an example of a ‘call to action’ on a website?
+## :star: 5. What type of information can KPIs provide? 
 
-:x: A. A list of phone numbers customers can use to get in contact with you\
-:heavy_check_mark: **B. A ‘Get directions to our store’ button which when clicked, redirects to a map displaying directions to the store based on the customer’s current address**\
-:x: C. An icon button that takes the customer to your social media accounts\
-:x: D. A hotline phone number that helps users complete their purchases
-
-## :star: 6. What should you consider when developing your website content?
-
-:heavy_check_mark: **A. What your customers are looking for**\
-:x: B. Your latest promotions and discounts\
-:x: C. Your brand values\
-:x: D. Whether the content will go viral or not 
+:x: A. Audience segmentation\
+:heavy_check_mark: **B. Long-term projections**\
+:x: C. Financial viability\
+:x: D. Board decisions 
