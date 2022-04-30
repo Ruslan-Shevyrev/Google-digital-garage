@@ -19,7 +19,7 @@
 :x: Website B\
 :x: Website C
 
-# :eight_pointed_black_star: 3.  Understanding mobile apps
+# :eight_pointed_black_star: 3. Understanding mobile apps
 
 ## Phil has limited technical knowledge but he wants to create an app to simplify the booking process for his customers.
 
