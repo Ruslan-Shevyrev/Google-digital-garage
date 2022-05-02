@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Using digital to advertise locally 
+# :eight_pointed_black_star: 1. Using digital to advertise locally
 
 ## Esmeralda runs a local bike shop.
 
