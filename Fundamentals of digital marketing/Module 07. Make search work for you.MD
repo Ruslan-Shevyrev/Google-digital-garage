@@ -6,7 +6,7 @@
 
 ## Can you help Eric choose a suitable title and meta description?
 
-**1. Click to select title :heavy_check_mark: A. Blake’s Produce: Fresh Fruit and Vegetables**
+**1. Click to select title :heavy_check_mark: A. Blake’s Produce: Fresh Fruit and Vegetables**\
 **2. Click to select meta description :heavy_check_mark: B. Fresh fruit and vegetables grown locally and delivered straight to your door*
 
 # :eight_pointed_black_star: 2. How other websites can work for you
