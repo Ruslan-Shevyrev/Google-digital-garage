@@ -49,13 +49,13 @@ Could it help her understand her customers' shopping preferences? :x: FALSE\
 
 ## What should she do, and in which order?
 
-:heavy_check_mark:** 1. Consider all the channels available**\
-:heavy_check_mark:** 2. Decide what content to create, and when, based on the target audience**\
-:heavy_check_mark:** 3. Create content**\
-:heavy_check_mark:** 4. Publish content**\
-:heavy_check_mark:** 5. Promote content**
+:heavy_check_mark:**1. Consider all the channels available**\
+:heavy_check_mark:**2. Decide what content to create, and when, based on the target audience**\
+:heavy_check_mark:**3. Create content**\
+:heavy_check_mark:**4. Publish content**\
+:heavy_check_mark:**5. Promote content**
 
-# :eight_pointed_black_star: 5. Measuring your success in content marketing
+# :eight_pointed_black_star: 6. Measuring your success in content marketing
 
 ## Maria has a pet shop in Bristol, and is writing fun blog posts about pets on her website, which are also being promoted on her social media accounts. Her goal is to try and increase product sales through content marketing efforts.
 
