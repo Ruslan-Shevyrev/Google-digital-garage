@@ -15,10 +15,10 @@ Could it help her understand her customers' shopping preferences? :x: FALSE\
 
 ## He has researched how to improve the blog and now has a number of actions he can take, but is unsure which should come first. Can you help him by arranging the following actions into the correct order?
 
-:heavy_check_mark:** 1. Find out who his audience is**\
-:heavy_check_mark:** 2. Segment his audience into groups**\
-:heavy_check_mark:** 3. Create specific content targeted to these audience profiles**\
-:heavy_check_mark:** 4. Publish the content and promote it to his audience**
+:heavy_check_mark:**1. Find out who his audience is**\
+:heavy_check_mark:**2. Segment his audience into groups**\
+:heavy_check_mark:**3. Create specific content targeted to these audience profiles**\
+:heavy_check_mark:**4. Publish the content and promote it to his audience**
 
 # :eight_pointed_black_star: 3. Choosing the right format for your content
 
@@ -55,32 +55,57 @@ Could it help her understand her customers' shopping preferences? :x: FALSE\
 :heavy_check_mark:** 4. Publish content**\
 :heavy_check_mark:** 5. Promote content**
 
+# :eight_pointed_black_star: 5. Measuring your success in content marketing
+
+## Maria has a pet shop in Bristol, and is writing fun blog posts about pets on her website, which are also being promoted on her social media accounts. Her goal is to try and increase product sales through content marketing efforts.
+
+## Which metric is the most relevant in assessing which blog posts are contributing to increased product sales?
+
+:x: How long users spend on each blog post\
+:x: Which websites are referring traffic to her blog\
+:x: The number of new subscribers to her email marketing list\
+:heavy_check_mark: **How many people click the "Buy Now" CTA at the end of each blog post**
+
 # :eight_pointed_black_star: Topic Quiz
 
-## :star: 1. When considering how mobile users will search for your business, which types of keywords should you focus on?
+## :star: 1. Which of the following is an accurate definition of what a content marketing campaign involves?
 
-:x: A. Long tail keywords\
-:heavy_check_mark: **B. Shorter keywords and phrases**\
-:x: C. Longer keywords and phrases\
-:x: D. Exact match keywords
+:x: A. Creating and posting content ad-hoc when you have the time\
+:x: B. The creation of time-sensitive content that can be published through various channels\
+:x: C. Regularly emailing customers with news about a business’s products or services\
+:heavy_check_mark: **D. The creation and promotion of online materials with the goal of increasing interest in a product or service**
 
-## :star: 2. Before running search ads, you should make sure your site is mobile-friendly. Which scenario best describes a mobile-friendly experience for a customer?
+## :star: 2. What does the following definition describe? 'The division of an audience into groups of who they are and what they like, with a goal of identifying a group most interested in your product/service.'
 
-:x: A. The business has a mobile app instead of a website\
-:x: B. The site include business phone numbers\
-:heavy_check_mark: **C. The site works on different mobile devices**\
-:x: D. The site does not include any videos so it loads quickly
+:x: A. Marketing channels\
+:x: B. Demographics\
+:heavy_check_mark: **C. Audience segmentation**\
+:x: D. Group dynamics
 
-## :star: 3. Which of the following can be used to target an audience when using some social media ads?
+## :star: 3. Fill in the blank: When describing the purpose of content, what is missing? 'To entertain, to inspire, to _______ and to convince'.
 
-:x: A. People's names\
-:x: B. People's address\
-:x: C. People's pet names\
-:heavy_check_mark: **D. People's relationship status**
+:x: A. Humour\
+:x: B. Please\
+:x: C. Surprise\
+:heavy_check_mark: **D. Educate**
 
-## :star: 4. When making video content for your display ads, what is most important to ensure?
+## :star: 4. Which of the following best describes why approaches to writing need to be adapted for online content?
 
-:x: A. Videos are entertaining, long and include a CTA\
-:heavy_check_mark: **B. Videos are relevant, short and include a CTA**\
-:x: C. Videos are relevant, long and include a URL\
-:x: D. Videos are short, informative and include a phone number
+:heavy_check_mark: **A. Online readers have a reduced attention span, due to being flooded with information**\
+:x: B. Certain blogging platforms have a limit on the word count you can publish\
+:x: C. Online readers only like to engage with long-form pieces of content\
+:x: D. Online audiences are typically younger, so the language used needs to reflect this
+
+## :star: 5. What are 'highlighting key dates' and 'considering multiple channels' best practices of?
+
+:heavy_check_mark: **A. Creating a content calendar**\
+:x: B. Designing illustrations to support content\
+:x: C. Segmenting your audience\
+:x: D. Identifying social media influencers
+
+## :star: 6. Which of the following metrics could help you understand which blog post is resonating the most with your audience?
+
+:heavy_check_mark: **A. Session duration**\
+:x: B. Page views\
+:x: C. Referral traffic\
+:x: D. Unique page views
