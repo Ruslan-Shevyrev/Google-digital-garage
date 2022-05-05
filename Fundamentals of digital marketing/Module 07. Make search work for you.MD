@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Making your web pages search friendly
+# :eight_pointed_black_star: 1. Making your web pages search friendly 
 
 ## Eric Blake sells the produce from his farm online.
 
