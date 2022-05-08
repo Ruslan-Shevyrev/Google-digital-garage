@@ -29,7 +29,7 @@ Could it help her understand her customers' shopping preferences? :x: FALSE\
 :x: List of the top 10 sports equipment outlets/shops\
 :heavy_check_mark: **A competition inviting customers to submit photos of themselves wearing Fitstuff gear, with store gift vouchers up for grabs as prizes**\
 :x: 10% discount vouchers for all new customers\
-:x: A blog about the store's recycling scheme for old trainers\
+:x: A blog about the store's recycling scheme for old trainers
 
 # :eight_pointed_black_star: 4. Writing for online audiences
 
