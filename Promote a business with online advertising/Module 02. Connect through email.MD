@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Email marketing basics 
+# :eight_pointed_black_star: 1. Email marketing basics
 
 ## Steph runs an online pet supplies shop, and she has some ideas about how email marketing can help her business.
 
