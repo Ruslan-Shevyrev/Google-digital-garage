@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. What is display advertising?
+# :eight_pointed_black_star: 1. What is display advertising? 
 
 ## Colin has been running a film review website for his podcasts for the past two years.
 
