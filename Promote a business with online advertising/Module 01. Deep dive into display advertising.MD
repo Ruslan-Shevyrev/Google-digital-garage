@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Making display ads meet your goals
+# :eight_pointed_black_star: 1. Making display ads meet your goals 
 
 ## Colin distributes a popular movie review podcast called ‘Film Talk’ from his website.
 
