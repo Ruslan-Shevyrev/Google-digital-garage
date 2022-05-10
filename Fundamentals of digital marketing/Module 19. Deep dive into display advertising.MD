@@ -21,7 +21,7 @@
 :heavy_check_mark: **Use an ad network such as Google Display Network**\
 :x: Share the video on his Facebook page
 
-# :eight_pointed_black_star: 3.  How retargeting works
+# :eight_pointed_black_star: 3. How retargeting works
 
 ## Colin is getting a lot of traffic to his podcast website, but not many subscribers.
 
