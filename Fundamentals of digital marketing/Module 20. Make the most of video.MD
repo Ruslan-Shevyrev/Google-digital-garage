@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. The rise of online video 
+# :eight_pointed_black_star: 1. The rise of online video
 
 ## Justin is a passionate cook.
 
