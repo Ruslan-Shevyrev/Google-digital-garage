@@ -57,4 +57,4 @@
 :x: A. How long people spend on your 'How To Find Us' page\
 :x: B. Which day of the week is most popular for bookings\
 :x: C. Whether your funny Tweet goes viral\
-:heavy_check_mark: **D. How many people visiting your site book a room with you**
+:heavy_check_mark: **D. How many people visiting your site book a room with you** 
