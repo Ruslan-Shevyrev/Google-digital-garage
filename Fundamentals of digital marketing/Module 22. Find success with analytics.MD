@@ -13,9 +13,9 @@
 
 ## Linda owns a guesthouse and has a website where customers can book and pay for rooms in advance.
 
-# Linda uses SEM to create targeted ads for her rooms. She’s now looking at the analytics data for the different ad campaigns she runs.
+## Linda uses SEM to create targeted ads for her rooms. She’s now looking at the analytics data for the different ad campaigns she runs.
 
-# Take a look at the analytics data for the three campaigns. Which one campaign is performing least well?
+## Take a look at the analytics data for the three campaigns. Which one campaign is performing least well?
 
 :x: “Cosy guesthouse in Guildford town centre Get away from it all in a relaxed setting Book a room today!\
 478 clicks 6% conversion rate\
