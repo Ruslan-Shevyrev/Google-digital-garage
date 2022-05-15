@@ -26,9 +26,9 @@
 
 ## Here are the highlights of the data that was gathered:
 
-## *75% of all eBook downloads came via his social media posts, 15% coming from his email newsletter and 10% via organic search traffic
-## *Most eBook downloads occured between 5.00 p.m. and 7.00 p.m.
-## *Facebook accounted for 65% of social media eBook downloads, LinkedIn made up another 25%, while other social media platforms delivered a total of 10%.
+## ..*75% of all eBook downloads came via his social media posts, 15% coming from his email newsletter and 10% via organic search traffic
+## ..*Most eBook downloads occured between 5.00 p.m. and 7.00 p.m.
+## ..*Facebook accounted for 65% of social media eBook downloads, LinkedIn made up another 25%, while other social media platforms delivered a total of 10%.
 ## Using this information, what actionable insights could Lee come up with to improve the success of his promotional efforts going forward?
 
 :x: Develop additional email marketing content, ensuring emails are delivered during the off-peak eBook download time.\
