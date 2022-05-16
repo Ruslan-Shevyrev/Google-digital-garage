@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Using e-commerce to sell 
+# :eight_pointed_black_star: 1. Using e-commerce to sell
 
 ## Jo owns a furniture shop, and she’s just started using the internet to boost sales.
 
