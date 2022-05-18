@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Creating a smooth e-commerce experience 
+# :eight_pointed_black_star: 1. Creating a smooth e-commerce experience
 
 ## Jo wants to use analytics data and visitor surveys to make some improvements to her e-commerce website, but she only has limited time and budget.
 
