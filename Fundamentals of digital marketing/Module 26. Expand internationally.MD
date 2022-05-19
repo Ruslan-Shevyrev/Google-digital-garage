@@ -44,11 +44,11 @@
 
 # :eight_pointed_black_star: 5. The support systems you will need
 
-## Matt’s chosen his market, now it’s time to find new customers.
+## Portugal seems like a good market for Matt to move into.
 
-## He has a few ideas, but not all of them will reach his Portuguese audience.
+## He’s looked into the legal requirements of trading records in Portugal and is pleased to find there aren’t any.
 
-## Can you help him choose his best advertising ideas?
+## But what other financial or regulatory requirements should he check?
 
 :heavy_check_mark: **Advertise on Portuguese music websites**\
 :x: Send English emails to current UK customers\
