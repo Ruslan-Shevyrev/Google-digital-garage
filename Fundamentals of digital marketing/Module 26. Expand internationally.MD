@@ -70,6 +70,19 @@
 :x: Learn to speak Portuguese\
 :heavy_check_mark: **Check his site from an international point of view**
 
+# :eight_pointed_black_star: 7. Delivering to customers across the globe
+
+## Matt’s found out that Portugal has fast internet speeds, which is great for accessing his website.
+
+## What things will Matt definitely need to do now he has customers in a new market?
+
+:heavy_check_mark: **Use an international payment system**\
+:heavy_check_mark: **Research the Portuguese music scene**\
+:x: Visit Portugal frequently\
+:x: Use an automated translation service\
+:x: Learn to speak Portuguese\
+:heavy_check_mark: **Check his site from an international point of view**
+
 # :eight_pointed_black_star: Topic Quiz
 
 ## :star: 1. Which of the following is a sign that customers are having trouble using a particular device to make purchases?
