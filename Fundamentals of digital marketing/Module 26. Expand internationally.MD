@@ -42,7 +42,7 @@
 :heavy_check_mark: **Use search ads driven by translated search term**\
 :heavy_check_mark: **Set up a Portuguese fanpage for his store**
 
-# :eight_pointed_black_star: 5. The support systems you will need 
+# :eight_pointed_black_star: 5. The support systems you will need
 
 ## Matt’s chosen his market, now it’s time to find new customers.
 
