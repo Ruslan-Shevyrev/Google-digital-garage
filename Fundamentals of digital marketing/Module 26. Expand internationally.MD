@@ -63,12 +63,12 @@
 
 ## What things will Matt definitely need to do now he has customers in a new market?
 
-:heavy_check_mark: **Custom duties and tariffs**\
-:heavy_check_mark: **Portuguese taxes**\
-:heavy_check_mark: **Exchange rates**\
-:x: Send English emails to current UK customers\
-:heavy_check_mark: **Product safety requirements**\
-:heavy_check_mark: **Insurance cover**
+:heavy_check_mark: **Use an international payment system**\
+:heavy_check_mark: **Research the Portuguese music scene**\
+:x: Visit Portugal frequently\
+:x: Use an automated translation service\
+:x: Learn to speak Portuguese\
+:heavy_check_mark: **Check his site from an international point of view**
 
 # :eight_pointed_black_star: Topic Quiz
 
