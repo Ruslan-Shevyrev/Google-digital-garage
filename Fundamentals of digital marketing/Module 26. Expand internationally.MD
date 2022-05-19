@@ -42,6 +42,19 @@
 :heavy_check_mark: **Use search ads driven by translated search term**\
 :heavy_check_mark: **Set up a Portuguese fanpage for his store**
 
+# :eight_pointed_black_star: 5. The support systems you will need
+
+## Matt’s chosen his market, now it’s time to find new customers.
+
+## He has a few ideas, but not all of them will reach his Portuguese audience.
+
+## Can you help him choose his best advertising ideas?
+
+:heavy_check_mark: **Advertise on Portuguese music websites**\
+:x: Send English emails to current UK customers\
+:heavy_check_mark: **Use search ads driven by translated search term**\
+:heavy_check_mark: **Set up a Portuguese fanpage for his store**
+
 # :eight_pointed_black_star: Topic Quiz
 
 ## :star: 1. Which of the following is a sign that customers are having trouble using a particular device to make purchases?
