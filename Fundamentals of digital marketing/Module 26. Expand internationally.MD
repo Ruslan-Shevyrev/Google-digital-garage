@@ -31,14 +31,16 @@
 
 # :eight_pointed_black_star: 4. Advertise across borders
 
-## Matt needs to make sure his website is suitable for his Portuguese customers. He’s made a list of translation and localisation tasks.
+## Matt’s chosen his market, now it’s time to find new customers.
 
-## Which items on his list relate to localisation?
+## He has a few ideas, but not all of them will reach his Portuguese audience.
 
-:heavy_check_mark: **Adjusting colloqualisms so they make sense in Portuguese**\
-:x: Adding his UK office's address to the main site\
-:heavy_check_mark: **Calculating prices of the products in local currency.**\
-:heavy_check_mark: **Adjusting humourous product descriptions so they make sense in Portuguese**
+## Can you help him choose his best advertising ideas?
+
+:heavy_check_mark: **Advertise on Portuguese music websites**\
+:x: Send English emails to current UK customers\
+:heavy_check_mark: **Use search ads driven by translated search term**\
+:heavy_check_mark: **Set up a Portuguese fanpage for his store**
 
 # :eight_pointed_black_star: Topic Quiz
 
