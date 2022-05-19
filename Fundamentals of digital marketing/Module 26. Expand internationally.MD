@@ -50,10 +50,12 @@
 
 ## But what other financial or regulatory requirements should he check?
 
-:heavy_check_mark: **Advertise on Portuguese music websites**\
+:heavy_check_mark: **Custom duties and tariffs**\
+:heavy_check_mark: **Portuguese taxes**\
+:heavy_check_mark: **Exchange rates**\
 :x: Send English emails to current UK customers\
-:heavy_check_mark: **Use search ads driven by translated search term**\
-:heavy_check_mark: **Set up a Portuguese fanpage for his store**
+:heavy_check_mark: **Product safety requirements**\
+:heavy_check_mark: **Insurance cover**
 
 # :eight_pointed_black_star: Topic Quiz
 
