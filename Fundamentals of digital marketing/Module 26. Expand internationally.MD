@@ -8,13 +8,15 @@
 :heavy_check_mark: **Search trends by location**\
 :x: Translation services
 
-# :eight_pointed_black_star: 2. Product promotion and merchandising
+# :eight_pointed_black_star: 2. Validating your new market
 
-## Office sets are steady sellers for Jo. How can she suggest office furniture items to customers who might not have considered them yet?
+## Matt has found out there’s a growing market for vintage records in Portugal. He now needs to identify insights on his new audience using a variety of tools.
 
-:heavy_check_mark: **Create a ‘Suggested products’ banner**\
-:x: Use analytics to understand who is visiting the site\
-:x: Add a video tour of the shop
+## Can you help him match the correct tool with its corresponding insight?
+
+**1. High search traffic on vintage record terms from Portugal :heavy_check_mark: C. Google Market Finder**\
+**2. Low competition on search ads in Portugal :heavy_check_mark: A. Google Keyword Planner**\
+**3. People in Portugal are looking at his website :heavy_check_mark: B. Google Analytics**
 
 # :eight_pointed_black_star: 3. Retargeting for e-commerce
 
