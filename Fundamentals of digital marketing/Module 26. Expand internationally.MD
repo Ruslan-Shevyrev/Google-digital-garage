@@ -72,9 +72,9 @@
 
 # :eight_pointed_black_star: 7. Delivering to customers across the globe
 
-## Matt’s found out that Portugal has fast internet speeds, which is great for accessing his website.
+## Matt’s getting ready to sell his vintage records to Portuguese customers online. But there’s one unhelpful task on his to-do list.
 
-## What things will Matt definitely need to do now he has customers in a new market?
+## Can you cross it out for him?
 
 :heavy_check_mark: **Use an international payment system**\
 :heavy_check_mark: **Research the Portuguese music scene**\
