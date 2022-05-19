@@ -59,11 +59,9 @@
 
 # :eight_pointed_black_star: 6. Helping customers abroad buy your products
 
-## Portugal seems like a good market for Matt to move into.
+## Matt’s found out that Portugal has fast internet speeds, which is great for accessing his website.
 
-## He’s looked into the legal requirements of trading records in Portugal and is pleased to find there aren’t any.
-
-## But what other financial or regulatory requirements should he check?
+## What things will Matt definitely need to do now he has customers in a new market?
 
 :heavy_check_mark: **Custom duties and tariffs**\
 :heavy_check_mark: **Portuguese taxes**\
