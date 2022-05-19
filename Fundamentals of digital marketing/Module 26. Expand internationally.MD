@@ -18,18 +18,27 @@
 **2. Low competition on search ads in Portugal :heavy_check_mark: A. Google Keyword Planner**\
 **3. People in Portugal are looking at his website :heavy_check_mark: B. Google Analytics**
 
-# :eight_pointed_black_star: 3. Retargeting for e-commerce
+# :eight_pointed_black_star: 3. Being understood abroad
 
-## Jo has noticed that some of her customers leave her site without making a purchase.
+## Matt needs to make sure his website is suitable for his Portuguese customers. He’s made a list of translation and localisation tasks.
 
-## She’s set up some product retargeting ads, and wants to measure the performance of her campaign.
+## Which items on his list relate to localisation?
 
-## What parameters should she look at to see if she’s attracting potential customers?
+:heavy_check_mark: **Adjusting colloqualisms so they make sense in Portuguese**\
+:x: Adding his UK office's address to the main site\
+:heavy_check_mark: **Calculating prices of the products in local currency.**\
+:heavy_check_mark: **Adjusting humourous product descriptions so they make sense in Portuguese**
 
-:heavy_check_mark: **Conversion rates**\
-:heavy_check_mark: **Number of people clicking on each ad type**\
-:x: Comments on her social media profile\
-:x: How many pages visitors check before they leave the site
+# :eight_pointed_black_star: 4. Advertise across borders
+
+## Matt needs to make sure his website is suitable for his Portuguese customers. He’s made a list of translation and localisation tasks.
+
+## Which items on his list relate to localisation?
+
+:heavy_check_mark: **Adjusting colloqualisms so they make sense in Portuguese**\
+:x: Adding his UK office's address to the main site\
+:heavy_check_mark: **Calculating prices of the products in local currency.**\
+:heavy_check_mark: **Adjusting humourous product descriptions so they make sense in Portuguese**
 
 # :eight_pointed_black_star: Topic Quiz
 
