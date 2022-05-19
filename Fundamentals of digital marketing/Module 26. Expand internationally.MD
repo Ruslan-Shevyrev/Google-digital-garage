@@ -76,12 +76,10 @@
 
 ## Can you cross it out for him?
 
-:heavy_check_mark: **Use an international payment system**\
-:heavy_check_mark: **Research the Portuguese music scene**\
-:x: Visit Portugal frequently\
-:x: Use an automated translation service\
-:x: Learn to speak Portuguese\
-:heavy_check_mark: **Check his site from an international point of view**
+:heavy_check_mark: **Research label requirments for international shipping**\
+:x: Set up a few Portuguese social media accounts\
+:heavy_check_mark: **Choose an international shipping partner**\
+:heavy_check_mark: **Set up customer service for international orders**
 
 # :eight_pointed_black_star: Topic Quiz
 
