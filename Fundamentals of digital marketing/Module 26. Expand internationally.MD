@@ -57,7 +57,7 @@
 :heavy_check_mark: **Product safety requirements**\
 :heavy_check_mark: **Insurance cover**
 
-# :eight_pointed_black_star: 5. The support systems you will need
+# :eight_pointed_black_star: 6. Helping customers abroad buy your products
 
 ## Portugal seems like a good market for Matt to move into.
 
