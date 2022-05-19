@@ -70,7 +70,7 @@
 :x: Learn to speak Portuguese\
 :heavy_check_mark: **Check his site from an international point of view**
 
-# :eight_pointed_black_star: 7. Delivering to customers across the globe
+# :eight_pointed_black_star: 7. Delivering to customers across the globe 
 
 ## Matt’s found out that Portugal has fast internet speeds, which is great for accessing his website.
 
