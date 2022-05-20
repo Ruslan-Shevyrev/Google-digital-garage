@@ -117,3 +117,17 @@
 :x: B. Open a new office in the capital city\
 :heavy_check_mark: **C. Determine its ability to deliver products and review all tax and legal information**\
 :x: D. Invest in major ad campaigns to raise brand awareness
+
+## :star: 6. When selling to people in different countries, what payment form should you consider using if you aren't already?
+
+:x: A. Debit cards\
+:x: B. Credit cards\
+:heavy_check_mark: **C. Paypal or Worldpay**\
+:x: D. Bank transfers
+
+## :star: 7. Which of the following options is important to research when planning to expand delivery of products and services to customers across the globe?
+
+:x: A. What times of the day international shoppers are online\
+:heavy_check_mark: **B. The legal and tax considerations in that market**\
+:x: C. Which social channels are popular in that market\
+:x: D. Which couriers offer the cheapest services for global shipping
