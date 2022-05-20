@@ -83,12 +83,12 @@
 
 # :eight_pointed_black_star: Topic Quiz
 
-## :star: 1. Which of the following is a sign that customers are having trouble using a particular device to make purchases?
+## :star: 1. What is the best way to translate the content on your website for a new market?
 
-:heavy_check_mark: **A. Analytics shows you have a lot of mobile visitors, but very few purchases through mobile**\
-:x: B. A specific product is not selling much compared to your other products\
-:x: C. You get a lot of questions about your return policy\
-:x: D. People are having trouble using a promo code for a current sale
+:x: A. Google translate\
+:heavy_check_mark: **B. Native speakers**\
+:x: C. Translation software\
+:x: D. Language guide
 
 ## :star: 2. What is an example of product merchandising?
 
@@ -99,7 +99,7 @@
 
 ## :star: 3. Which of the following statements is true when describing how retargeting ads work?
 
-:x: A. Retargeting ads are visible to people who haven't been on your website yet\
-:heavy_check_mark: **B. Once a user visits your site, the code drops an anonymous browser cookie**\
-:x: C. Once your customer purchases, you can not turn off the retargeting ad\
-:x: D. Retargeting will always drive customers to your site
+:heavy_check_mark: **A. Analytics shows you have a lot of mobile visitors, but very few purchases through mobile**\
+:x: B. A specific product is not selling much compared to your other products\
+:x: C. You get a lot of questions about your return policy\
+:x: D. People are having trouble using a promo code for a current sale
