@@ -104,7 +104,14 @@
 
 ## :star: 3. When adapting your website for customers who speak a different language, what should you do?
 
-:x: A. Translation software\
-:heavy_check_mark: **B. Keyword planning tools**\
-:x: C. Interviews with people from that country\
-:x: D. A range of search ads in different countries
+:x: A. Have a 'translate' button that pulls a translation from an external provider\
+:heavy_check_mark: **B. Translate your content with consideration to particular words and phrases**\
+:x: C. Translate your content directly, word for word\
+:x: D. Localise the name of the business owners
+
+## :star: 4. Which of the following is primarily meant to target new customers online?
+
+:x: A. Email marketing\
+:x: B. Print advertising\
+:x: C. Retargeting advertising\
+:heavy_check_mark: **D. Search advertising**
