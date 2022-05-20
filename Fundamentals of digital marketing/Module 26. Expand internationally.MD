@@ -90,16 +90,21 @@
 :x: C. Translation software\
 :x: D. Language guide
 
-## :star: 2. What is an example of product merchandising?
+## :star: 2. Before starting to promote products to other countries online, what could you use to gauge demand for your product in that specific market?
+
+:x: A. Translation software\
+:heavy_check_mark: **B. Keyword planning tools**\
+:x: C. Interviews with people from that country\
+:x: D. A range of search ads in different countries
 
 :x: A. Running an ad for your products\
 :x: B. Adding a way for customers to filter your products\
 :heavy_check_mark: **C. Displaying very specific, featured products on your home page**\
 :x: D. Cross-selling products in the checkout process
 
-## :star: 3. Which of the following statements is true when describing how retargeting ads work?
+## :star: 3. When adapting your website for customers who speak a different language, what should you do?
 
-:heavy_check_mark: **A. Analytics shows you have a lot of mobile visitors, but very few purchases through mobile**\
-:x: B. A specific product is not selling much compared to your other products\
-:x: C. You get a lot of questions about your return policy\
-:x: D. People are having trouble using a promo code for a current sale
+:x: A. Translation software\
+:heavy_check_mark: **B. Keyword planning tools**\
+:x: C. Interviews with people from that country\
+:x: D. A range of search ads in different countries
