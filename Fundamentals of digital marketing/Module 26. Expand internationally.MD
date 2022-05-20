@@ -97,11 +97,6 @@
 :x: C. Interviews with people from that country\
 :x: D. A range of search ads in different countries
 
-:x: A. Running an ad for your products\
-:x: B. Adding a way for customers to filter your products\
-:heavy_check_mark: **C. Displaying very specific, featured products on your home page**\
-:x: D. Cross-selling products in the checkout process
-
 ## :star: 3. When adapting your website for customers who speak a different language, what should you do?
 
 :x: A. Have a 'translate' button that pulls a translation from an external provider\
@@ -115,3 +110,10 @@
 :x: B. Print advertising\
 :x: C. Retargeting advertising\
 :heavy_check_mark: **D. Search advertising**
+
+## :star: 5. What should a business do first, when considering going into a new market?
+
+:x: A. Hire an agency to translate its website into the local language\
+:x: B. Open a new office in the capital city\
+:heavy_check_mark: **C. Determine its ability to deliver products and review all tax and legal information**\
+:x: D. Invest in major ad campaigns to raise brand awareness
