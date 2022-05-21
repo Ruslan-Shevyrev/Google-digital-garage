@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Introduction to international marketing and export
+# :eight_pointed_black_star: 1. Introduction to international marketing and export 
 
 ## Matt runs an online vintage record store in the UK. He wants to expand into new markets, but doesn’t know where to begin.
 
