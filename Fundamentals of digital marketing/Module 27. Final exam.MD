@@ -23,12 +23,12 @@
 :heavy_check_mark: **C. Send them offers when they enter a certain geographical area**\
 :x: D. Add items to their in-app basket that you think they'd like
 
-## :star: 4. Which of the following is primarily meant to target new customers online?
+## :star: 4. When defining a strategy for your business, how can competitor analysis help you establish a USP (or Unique Selling Point)?
 
-:x: A. Email marketing\
-:x: B. Print advertising\
-:x: C. Retargeting advertising\
-:heavy_check_mark: **D. Search advertising**
+:x: A. It can enable you to offer discounts that compete directly with your competitors' pricing\
+:heavy_check_mark: **B. It can identify how your offering is different in comparison to your competitors**\
+:x: C. It can give you deeper insight into the market and their approach\
+:x: D. It can reveal which additional regions you could be operating in so that you can grow your business
 
 ## :star: 5. What should a business do first, when considering going into a new market?
 
