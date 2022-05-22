@@ -286,3 +286,10 @@
 :x: B. affordable | supply chain | language\
 :x: C. exciting | customers needs | currency\
 :x: D. affordable | customer needs | legal
+
+## :star: 40. If you are looking to expand your company's presence online internationally, which of the following should you consider with regards to your online content?
+
+:x: A. Translated by an automated tool only\
+:heavy_check_mark: **B. Translated but also locally adapted for the audience**\
+:x: C. Translated into the native language\
+:x: D. Left the same, and not translated
