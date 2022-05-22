@@ -270,3 +270,12 @@
 :x: B. Social advertising\
 :heavy_check_mark: **C. Retargeting**\
 :x: D. Email campaigns
+
+# :eight_pointed_black_star: Take a business global
+
+## :star: 38. When looking to expand your business internationally on social media, what should you do first?
+
+:x: A. Treat all social media channels the same\
+:x: B. Use popular phrases and memes for that area\
+:heavy_check_mark: **C. Analyse platforms popular in that area**\
+:x: D. Not advertise at all, as other countries don't like social advertising
