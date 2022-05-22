@@ -30,12 +30,12 @@
 :x: C. It can give you deeper insight into the market and their approach\
 :x: D. It can reveal which additional regions you could be operating in so that you can grow your business
 
-## :star: 5. What should a business do first, when considering going into a new market?
+## :star: 5. Which are the first steps you should consider when constructing an online business strategy?
 
-:x: A. Hire an agency to translate its website into the local language\
-:x: B. Open a new office in the capital city\
-:heavy_check_mark: **C. Determine its ability to deliver products and review all tax and legal information**\
-:x: D. Invest in major ad campaigns to raise brand awareness
+:x: A. Understand the target audience\
+:x: B. Change your mission statement to match the goals\
+:heavy_check_mark: **C. Create goals and identify a USP**\
+:x: D. Define and segment your audiences
 
 ## :star: 6. When selling to people in different countries, what payment form should you consider using if you aren't already?
 
