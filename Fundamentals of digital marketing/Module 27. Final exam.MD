@@ -37,16 +37,18 @@
 :heavy_check_mark: **C. Create goals and identify a USP**\
 :x: D. Define and segment your audiences
 
-## :star: 6. When selling to people in different countries, what payment form should you consider using if you aren't already?
+# :eight_pointed_black_star: Make it easy for people to find a business on the web
 
-:x: A. Debit cards\
-:x: B. Credit cards\
-:heavy_check_mark: **C. Paypal or Worldpay**\
-:x: D. Bank transfers
+## :star: 6. What is the term we use to describe how search engines categorise each piece of content?
 
-## :star: 7. Which of the following options is important to research when planning to expand delivery of products and services to customers across the globe?
+:x: A. Listing\
+:x: B. Crawling\
+:heavy_check_mark: **C. Indexing**\
+:x: D. Ranking
 
-:x: A. What times of the day international shoppers are online\
-:heavy_check_mark: **B. The legal and tax considerations in that market**\
-:x: C. Which social channels are popular in that market\
-:x: D. Which couriers offer the cheapest services for global shipping
+## :star: 7. Fill the blank: 'Search engines _________ the internet to discover content.'
+
+:x: A. index\
+:heavy_check_mark: **B. crawl**\
+:x: C. investigate\
+:x: D. rank
