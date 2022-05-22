@@ -196,3 +196,26 @@
 :x: B. Use hashtags\
 :x: C. Make them funny\
 :x: D. Use subtitles
+
+# :eight_pointed_black_star: Track and measure web traffic
+
+## :star: 28. When using analytics on your website, what do we mean by the term 'conversion'?
+
+:x: A. The act of a user coming from a certain geographical location\
+:x: B. The act of a user spending a certain amount of time on the site\
+:x: C. The act of a user meeting a specific metric\
+:heavy_check_mark: **D. The act of a user completing a goal**
+
+## :star: 29. When using analytics programmes on your website, which of these do not fall under the category of a metric?
+
+:heavy_check_mark: **A. Browser users use to access your site**\
+:x: B. Unique visitors to your site\
+:x: C. Time users spend on your site\
+:x: D. Number of pages viewed per visit
+
+## :star: 30. Fill the blank: When you link Google Ads with Google Analytics you are able to understand which ________ are driving performance.
+
+:x: A. Organic keywords\
+:x: B. Social media ads\
+:heavy_check_mark: **C. Paid keywords**\
+:x: D. Directories
