@@ -81,9 +81,67 @@
 :x: C. Target people based on their interests and habits\
 :x: D. SEM is a lot cheaper than any other advertising medium
 
-## :star: 11. When advertising on search engines, if you bid the same as your competitor, having a higher quality score will mean you appear where in comparison?
+## :star: 12. When advertising on search engines, if you bid the same as your competitor, having a higher quality score will mean you appear where in comparison?
 
 :x: A. Alongside them\
 :x: B. Below them\
 :x: C. On the next page after them\
 :heavy_check_mark: **D. Above them**
+
+## :star: 13. What can you achieve if you divide your search engine marketing account into relevant campaigns and ad groups?
+
+:x: A. Drive more traffic to your website\
+:x: B. Target more people in different areas of the world\
+:heavy_check_mark: **C. Ensure people see relevant ads that relate to their search query**\
+:x: D. Stop using negative keywords
+
+## :star: 14. What is the most important thing to consider when optimising a search engine marketing campaign?
+
+:x: A. Increasing the bid for the keywords you are targeting\
+:heavy_check_mark: **B. Increasing the relevance of the keywords, ads, and landing page**\
+:x: C. Adding lots of keywords to the campaign to get more traffic\
+:x: D. Continually changing the ad copy
+
+# :eight_pointed_black_star: Reach more people locally, on social media or on mobile
+
+## :star: 15. Fill in the blank: When search engines use factors like geolocation, IP address and location-based search terms to produce geographically tailored results, this is called _____________.
+
+:heavy_check_mark: **A. Local Search**\
+:x: B. Geo search\
+:x: C. Mobile search\
+:x: D. Organic search
+
+## :star: 16. When looking to promote your products and services locally, what are the benefits of using search engine ads?
+
+:x: A. Everyone uses search engines\
+:heavy_check_mark: **B. You can target ads to a specific geographic area**\
+:x: C. You can target ads to specific genders\
+:x: D. Search ads are cheaper than display adverts
+
+## :star: 17. There are lots of social media platforms out there, but what is a benefit of using smaller, more niche social media platforms for your business?
+
+:x: A. People on niche platforms are more likely to engage with you\
+:heavy_check_mark: **B. Your content will be put in front of specific audiences**\
+:x: C. Your content will be seen by a mix of different people, gaining more views and likes\
+:x: D. It enhances your brand to be seen on more specific social media platforms
+
+## :star: 18. Building a plan will help you to focus your efforts when using social media. What should you consider when making your social media plan?
+
+:x: A. Your audience's data\
+:heavy_check_mark: **B. Your audience's interests**\
+:x: C. You audience's available income\
+:x: D. Your audience's offline behaviour
+
+## :star: 19. With more and more users using mobile to look at websites, it is key that you optimise your site so users can find it when searching online. Which two elements should you look to optimise for improved SEO performance?
+
+:heavy_check_mark: **A. Site speed and usability**\
+:x: B. Keywords and metadata\
+:x: C. Image size and navigation\
+:x: D. Site speed and visual appearance
+
+## :star: 20. When looking to advertise your business to mobile users, social media advertising can be really effective because...
+
+:x: A. it allows you to target people who have ad blockers enabled\
+:x: B. it can be seen by people who aren't logged into their accounts\
+:heavy_check_mark: **C. it allows you to target people based on their likes and interests**\
+:x: D. it doesn't cost too much to spread your ads far
