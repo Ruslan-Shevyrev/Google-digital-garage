@@ -145,3 +145,54 @@
 :x: B. it can be seen by people who aren't logged into their accounts\
 :heavy_check_mark: **C. it allows you to target people based on their likes and interests**\
 :x: D. it doesn't cost too much to spread your ads far
+
+## :star: 21. How would you classify the content distribution channel that uses influencer and outreach marketing to increase a brand's reach?
+
+:x: A. Paid\
+:x: B. Owned\
+:x: C. Earned\
+:heavy_check_mark: **D. Published**
+
+# :eight_pointed_black_star: Reach more customers with advertising
+
+## :star: 22. When it comes to email marketing, what do we mean by the term A/B testing?
+
+:x: A. A/B testing means you can split your contacts alphabetically\
+:x: B. A/B testing means you send the same email twice to the same people\
+:heavy_check_mark: **C. A/B testing means splitting your audience and sending each of them a different variation of your email**\
+:x: D. A/B testing means it is spell checked and proofed, prior to hitting send
+
+## :star: 23. Which of the following is a benefit of search advertising over display advertising?
+
+:x: A. Search ads are more likely to be clicked on\
+:x: B. Search advertising is cheaper than display advertising\
+:x: C. Search advertising allows ads to be created in multiple formats\
+:heavy_check_mark: **D. Search advertising is shown to customers who are searching for your specific terms**
+
+## :star: 24. Which of the following is a benefit of display advertising over search advertising?
+
+:x: A. Display advertising is cheaper than search advertising\
+:heavy_check_mark: **B. Appearing on relevant websites offering advertising space**\
+:x: C. Ads can appear at the top of search engine results pages\
+:x: D. Display ads are more likely to be clicked on
+
+## :star: 25. Which of the following is the most accurate analogy for a display advertising network?
+
+:x: A. A targeting option for publishers\
+:heavy_check_mark: **B. A marketplace between online publishers and advertisers**\
+:x: C. A payments system for online ad campaigns\
+:x: D. A targeting option for advertisers
+
+## :star: 26. What can you do to help your videos appear in search results?
+
+:x: A. Make the content really interesting\
+:heavy_check_mark: **B. Give detailed descriptions of its content**\
+:x: C. Clearly brand your videos\
+:x: D. Include calls to action within the videos
+
+## :star: 27. How can you attract social media users to share your video content online?
+
+:heavy_check_mark: **A. Tag them in posts**\
+:x: B. Use hashtags\
+:x: C. Make them funny\
+:x: D. Use subtitles
