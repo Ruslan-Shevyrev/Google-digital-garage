@@ -9,19 +9,19 @@
 :x: C. Optimising a website\
 :x: D. Defining a customer base
 
-## :star: 2. Before starting to promote products to other countries online, what could you use to gauge demand for your product in that specific market?
+## :star: 2. When planning your website, what is one of the key things you should consider?
 
-:x: A. Translation software\
-:heavy_check_mark: **B. Keyword planning tools**\
-:x: C. Interviews with people from that country\
-:x: D. A range of search ads in different countries
+:x: A. The order your products will appear on the site\
+:heavy_check_mark: **B. What you want your customers to do on the site**\
+:x: C. How customers will interact with the site\
+:x: D. What your customers want to see on the site
 
-## :star: 3. When adapting your website for customers who speak a different language, what should you do?
+## :star: 3. Imagine a customer has downloaded an app made by their local hardware store. How could that business connect with their audience through the app?
 
-:x: A. Have a 'translate' button that pulls a translation from an external provider\
-:heavy_check_mark: **B. Translate your content with consideration to particular words and phrases**\
-:x: C. Translate your content directly, word for word\
-:x: D. Localise the name of the business owners
+:x: A. Call the customer when there is an offer they'd enjoy\
+:x: B. See where their customers are and monitor their shopping behaviours\
+:heavy_check_mark: **C. Send them offers when they enter a certain geographical area**\
+:x: D. Add items to their in-app basket that you think they'd like
 
 ## :star: 4. Which of the following is primarily meant to target new customers online?
 
