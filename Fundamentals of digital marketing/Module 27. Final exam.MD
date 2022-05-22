@@ -219,3 +219,40 @@
 :x: B. Social media ads\
 :heavy_check_mark: **C. Paid keywords**\
 :x: D. Directories
+
+## :star: 31. How do you handle data in analytics to gain greater insights into our audience's behaviour?
+
+:x: A. Partition\
+:x: B. Sample\
+:heavy_check_mark: **C. Segment**\
+:x: D. Extract
+
+## :star: 32. What is the benefit of using digital data?
+
+:heavy_check_mark: **A. It can help you make informed decisions and improve online performance**\
+:x: B. Digital data is always 100% accurate\
+:x: C. Digital data allows you to save money on offline analytics\
+:x: D. Using digital data allows you to automatically reach more customers
+
+## :star: 33. When creating a presentation based on lots of data, what principle should you bear in mind?
+
+:x: A. Show all the information available, to give your audience as much context as possible\
+:heavy_check_mark: **B. Tailor your approach to your audience in order to tell a better story**\
+:x: C. Stick to visual graphics only, as everyone will prefer this presentation format over tables and text\
+:x: D. Present all information in the same way because everyone interprets things similarly
+
+# :eight_pointed_black_star: Sell products or services online
+
+## :star: 34. When building your online product store, to make it as effective as possible you should look to optimise the performance by using images in what kind of way?
+
+:x: A. Use images direct from the internet to ensure accurate file size\
+:x: B. Use images direct from the original manufacturer\
+:heavy_check_mark: **C. Ensure images are of a high quality**\
+:x: D. Use detailed descriptions instead of images to help search engines
+
+## :star: 35. Which of these is not a benefit for businesses using fully integrated e-commerce platforms?
+
+:x: A. Stock control\
+:x: B. Integrated invoicing\
+:x: C. The ability to track shipping\
+:heavy_check_mark: **D. Automated complaints process system**
