@@ -279,3 +279,10 @@
 :x: B. Use popular phrases and memes for that area\
 :heavy_check_mark: **C. Analyse platforms popular in that area**\
 :x: D. Not advertise at all, as other countries don't like social advertising
+
+## :star: 39. Fill the blanks: When advertising internationally, you should make your business ______ to the new market, consider the ___________ and any possible ___________ implications.
+
+:heavy_check_mark: **A. accessible | supply chain | legal**\
+:x: B. affordable | supply chain | language\
+:x: C. exciting | customers needs | currency\
+:x: D. affordable | customer needs | legal
