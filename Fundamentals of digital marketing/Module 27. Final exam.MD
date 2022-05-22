@@ -263,3 +263,10 @@
 :x: B. show them remarketing ads with a variety of products\
 :heavy_check_mark: **C. show them remarketing ads with a variety of products**\
 :x: D. include a pop up on your website that they have to action before continuing
+
+## :star: 37. If a user abandons their shopping cart without making a purchase, one way to bring them back to complete the purchase is?
+
+:x: A. SEM advertising\
+:x: B. Social advertising\
+:heavy_check_mark: **C. Retargeting**\
+:x: D. Email campaigns
