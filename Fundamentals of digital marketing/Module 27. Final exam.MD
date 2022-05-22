@@ -256,3 +256,10 @@
 :x: B. Integrated invoicing\
 :x: C. The ability to track shipping\
 :heavy_check_mark: **D. Automated complaints process system**
+
+## :star: 36. When trying to increase the product sales on your website, one way to achieve this is to_________?
+
+:x: A. send multiple follow up emails once a purchase has been made\
+:x: B. show them remarketing ads with a variety of products\
+:heavy_check_mark: **C. show them remarketing ads with a variety of products**\
+:x: D. include a pop up on your website that they have to action before continuing
