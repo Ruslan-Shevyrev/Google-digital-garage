@@ -52,3 +52,17 @@
 :heavy_check_mark: **B. crawl**\
 :x: C. investigate\
 :x: D. rank
+
+## :star: 8. To improve your website's SEO performance, when should you consider updating your SEO plan?
+
+:x: A. When you write a new blog post\
+:x: B. When you have a sale or promotion\
+:heavy_check_mark: **C. When you add a new service or product**\
+:x: D. When you employ new staff
+
+## :star: 8. To improve your website's SEO performance, when should you consider updating your SEO plan?
+
+:x: A. When you write a new blog post\
+:x: B. When you have a sale or promotion\
+:heavy_check_mark: **C. When you add a new service or product**\
+:x: D. When you employ new staff
