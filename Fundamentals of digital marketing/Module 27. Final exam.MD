@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: Certification exam
+# :star2: Certification exam
 
 # :eight_pointed_black_star: Take a business online
 
