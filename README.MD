@@ -2,6 +2,7 @@
 
 ## :sunny: Answers to training courses Google Digital Garage
 
+link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
 <table>
