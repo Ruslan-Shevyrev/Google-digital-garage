@@ -5,7 +5,7 @@
 link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
-:one: Fundamentals of digital marketing (includes certificate)
+:one: Fundamentals of digital marketing (includes certificate) :scroll:
 
 <table>
   <tr>
