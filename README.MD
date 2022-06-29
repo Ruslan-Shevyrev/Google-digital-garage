@@ -1,6 +1,6 @@
 # :eight_pointed_black_star: Google Digital Garage
 
-## Answers to training courses Google Digital Garage
+## :sunny: Answers to training courses Google Digital Garage
 
 https://learndigital.withgoogle.com/digitalgarage/
 
