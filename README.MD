@@ -1,5 +1,9 @@
 # :eight_pointed_black_star: Google Digital Garage
 
+## Answers to training courses Google Digital Garage
+
+https://learndigital.withgoogle.com/digitalgarage/
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
