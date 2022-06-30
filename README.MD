@@ -5,10 +5,10 @@
 link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
-| First Header  | Second Header |
+| ordinal number | Course| Note |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| :one: | **Fundamentals of digital marketing** | (certificate provided) :scroll: |
+| :two: | **Connect with customers over mobile** | (included in "Fundamentals of digital marketing") |
 
 |:one:| **Fundamentals of digital marketing** | (certificate provided) :scroll:|\
 :two: **Connect with customers over mobile** :arrow_forward: ***(included in "Fundamentals of digital marketing")***\
