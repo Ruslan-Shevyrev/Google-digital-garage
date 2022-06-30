@@ -5,7 +5,7 @@
 link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
-:one: **Fundamentals of digital marketing** :arrow_forward:(certificate provided) :scroll:\
+:one: **Fundamentals of digital marketing** :arrow_forward:***(certificate provided)*** :scroll:\
 :two: **Connect with customers over mobile** :exclamation:(included in "Fundamentals of digital marketing")\
 :three: **Expand a business to other countries** :exclamation:(included in "Fundamentals of digital marketing")\
 :four: **Get a business online** :exclamation:(included in "Fundamentals of digital marketing")\
