@@ -6,7 +6,7 @@ link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
 | ordinal number | Course| Note |
-| ------------- | ------------- |
+| ------------- | ------------- | -------------- |
 | :one: | **Fundamentals of digital marketing** | (certificate provided) :scroll: |
 | :two: | **Connect with customers over mobile** | (included in "Fundamentals of digital marketing") |
 
