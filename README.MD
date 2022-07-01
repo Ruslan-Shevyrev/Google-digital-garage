@@ -11,6 +11,7 @@ https://learndigital.withgoogle.com/digitalgarage/
 | :two: | **Connect with customers over mobile** | (included in "Fundamentals of digital marketing") |
 | :three: | **Expand a business to other countries** | (included in "Fundamentals of digital marketing") |
 | :four: | **Get a business online** | (included in "Fundamentals of digital marketing") |
+| :five: | **Make sure customers find you online** | (included in "Fundamentals of digital marketing") |
 
 <table>
   <tr>
