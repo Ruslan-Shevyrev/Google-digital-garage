@@ -37,3 +37,4 @@
 ## Which of the following would help make Abigail's business and customers safer online?
 
 :heavy_check_mark:**Moving to HTTPS**\
+:x: Sending regular security updates to customers' spam boxes\
