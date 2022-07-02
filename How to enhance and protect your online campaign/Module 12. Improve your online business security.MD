@@ -35,3 +35,5 @@
 ## Abigail is an antiques dealer. She's created a website to sell her products, and also publishes regular blog posts to raise awareness and keep customers interested.
 
 ## Which of the following would help make Abigail's business and customers safer online?
+
+:heavy_check_mark:**Moving to HTTPS**\
