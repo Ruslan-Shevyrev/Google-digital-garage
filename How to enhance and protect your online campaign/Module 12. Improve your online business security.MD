@@ -18,3 +18,5 @@
 :heavy_check_mark: **A. Employees must encrypt every smartphone and laptop they use for work.**\
 :x: B. Employees must set up a PIN to unlock their smartphones, but laptops should be left unprotected so the IT support guy always has access.\
 :x: C. Employees can have unlimited access to all company information, but must allow remote wiping of data if necessary.
+
+# :eight_pointed_black_star: 3. Securing networks, systems and software
