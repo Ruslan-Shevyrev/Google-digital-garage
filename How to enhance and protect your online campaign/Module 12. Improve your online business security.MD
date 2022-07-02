@@ -25,7 +25,7 @@
 
 ## What steps should he take to make his online business safer?
 
-**1. Create a record of all the company’s digital assets**\
-**2. Segment or split his computer network into smaller groups of systems**\
-**3. Only transfer information between systems if absolutely necessary**\
-**4. Create a data breach response plan so everyone in the business knows what to do if there’s a security breach**
+:heavy_check_mark:**1. Create a record of all the company’s digital assets**\
+:heavy_check_mark:**2. Segment or split his computer network into smaller groups of systems**\
+:heavy_check_mark:**3. Only transfer information between systems if absolutely necessary**\
+:heavy_check_mark:**4. Create a data breach response plan so everyone in the business knows what to do if there’s a security breach**
