@@ -38,3 +38,4 @@
 
 :heavy_check_mark:**Moving to HTTPS**\
 :x: Sending regular security updates to customers' spam boxes\
+:heavy_check_mark:**Using a reliable email provider**\
