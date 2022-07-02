@@ -1,6 +1,5 @@
 # :eight_pointed_black_star: 1. Your long-term social media plan
 
-
 ## Lily runs a vintage clothing shop and wants to engage more with her customers online.
 
 ## She currently posts to two social media networks but wants to develop a full social media strategy.
