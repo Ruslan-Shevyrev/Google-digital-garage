@@ -1,4 +1,4 @@
-# :eight_pointed_black_star: 1. Social media basics 
+# :eight_pointed_black_star: 1. Social media basics
 
 ## Lily runs a vintage clothing company.
 
