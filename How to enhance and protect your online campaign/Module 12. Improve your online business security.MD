@@ -14,3 +14,8 @@
 ## Marcela opened her first café in 2008 and now runs four others across Dublin. Many of her staff work remotely using laptops, phones and other devices. She's keen to set up a mobile device management policy to ensure important business information is kept secure.
 
 ## Which of these should she include in her new policy?
+
+:heavy_check_mark: **Buy ad space on a search results page**\
+:heavy_check_mark: **Bid for keywords to display your content in search engines**\
+:x: Tag keywords within your website content\
+:x: Optimise your website’s design
