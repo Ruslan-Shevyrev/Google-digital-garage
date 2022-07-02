@@ -20,3 +20,12 @@
 :x: C. Employees can have unlimited access to all company information, but must allow remote wiping of data if necessary.
 
 # :eight_pointed_black_star: 3. Securing networks, systems and software
+
+## Patrick owns a few bike rental outlets across London. A few months back, he decided to invest in an online booking system and some other software to help his business run more smoothly. Recently though, he suspects there might have been a potential online security breach.
+
+## What steps should he take to make his online business safer?
+
+**1. Create a record of all the company’s digital assets**\
+**2. Segment or split his computer network into smaller groups of systems**\
+**3. Show customers Hamish’s latest hair looks :heavy_check_mark: A. An online gallery**\
+**4. Help local customers find the new salon :heavy_check_mark: C. A map**
