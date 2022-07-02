@@ -27,5 +27,5 @@
 
 **1. Create a record of all the company’s digital assets**\
 **2. Segment or split his computer network into smaller groups of systems**\
-**3. Show customers Hamish’s latest hair looks :heavy_check_mark: A. An online gallery**\
-**4. Help local customers find the new salon :heavy_check_mark: C. A map**
+**3. Only transfer information between systems if absolutely necessary**\
+**4. Create a data breach response plan so everyone in the business knows what to do if there’s a security breach**
