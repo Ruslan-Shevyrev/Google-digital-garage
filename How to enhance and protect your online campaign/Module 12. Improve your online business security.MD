@@ -11,6 +11,6 @@
 
 # :eight_pointed_black_star: 2. Securing employee devices
 
-## Lauren and Paul run a successful online business. They want their employees to become more aware of the importance of online security, but aren't sure where to start.
+## Marcela opened her first café in 2008 and now runs four others across Dublin. Many of her staff work remotely using laptops, phones and other devices. She's keen to set up a mobile device management policy to ensure important business information is kept secure.
 
-## Can you help them identify the actions they should take?
+## Which of these should she include in her new policy?
