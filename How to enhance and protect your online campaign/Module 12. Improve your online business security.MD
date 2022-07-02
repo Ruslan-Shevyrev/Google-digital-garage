@@ -31,3 +31,7 @@
 :heavy_check_mark:**4. Create a data breach response plan so everyone in the business knows what to do if there’s a security breach**
 
 # :eight_pointed_black_star: 4. Creating a secure online customer experience
+
+## Abigail is an antiques dealer. She's created a website to sell her products, and also publishes regular blog posts to raise awareness and keep customers interested.
+
+## Which of the following would help make Abigail's business and customers safer online?
