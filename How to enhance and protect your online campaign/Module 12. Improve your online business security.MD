@@ -15,7 +15,6 @@
 
 ## Which of these should she include in her new policy?
 
-:heavy_check_mark: **Buy ad space on a search results page**\
-:heavy_check_mark: **Bid for keywords to display your content in search engines**\
-:x: Tag keywords within your website content\
+:heavy_check_mark: **A. Employees must encrypt every smartphone and laptop they use for work.**\
+:x: B. Employees must set up a PIN to unlock their smartphones, but laptops should be left unprotected so the IT support guy always has access.\
 :x: Optimise your website’s design
