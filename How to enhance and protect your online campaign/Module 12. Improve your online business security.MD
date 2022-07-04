@@ -42,3 +42,31 @@
 :x: Ensuring her website has a high SEO ranking
 
 # :eight_pointed_black_star: Topic Quiz
+
+## :star: 1. How might a business encourage its employees to think more seriously about security?
+
+:heavy_check_mark: **A. Set up regular training programs about security policies**\
+:x: B. Qualitative\
+:x: C. Holistic\
+:x: D. Customer
+
+## :star: 2. What makes the data cycle useful?
+
+:heavy_check_mark: **A. It helps you make the most of the data collected from marketing activities**\
+:x: B. It helps you evaluate your competition\
+:x: C. It provides information about what users like about your website\
+:x: D. It presents collected data in a visually appealing way
+
+## :star: 3. Fill in the blank: Actionable insights can be described as explaining the ______ of an online marketing campaign.
+
+:heavy_check_mark: **A. 'Why'**\
+:x: B. 'How'\
+:x: C. 'When'\
+:x: D. 'Who'
+
+## :star: 4. Which of the following is a benefit of using spreadsheets?
+
+:heavy_check_mark: **A. Vast quantities of data can be stored, sorted and analysed quickly**\
+:x: B. Data can only be accessed when all users are online\
+:x: C. Valuable customer and market insights can be delivered quickly\
+:x: D. Spreadsheets are the only way to collect data and extrapolate results
