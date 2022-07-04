@@ -64,7 +64,7 @@
 :heavy_check_mark: **C. Identify your digital assets**\
 :x: D. Check the expiry date of all your software
 
-## :star: 4. Which of the following is a benefit of using spreadsheets?
+## :star: 4. What's the main benefit of switching a website to HTTPS?
 
 :heavy_check_mark: **A. Vast quantities of data can be stored, sorted and analysed quickly**\
 :x: B. Data can only be accessed when all users are online\
