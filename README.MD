@@ -5,14 +5,14 @@
 link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
-| ord | Course| Note |
-| :---: | ------------- | -------------- |
-| :one: | **Fundamentals of digital marketing** | (certificate provided) :scroll: |
-| :two: | **Connect with customers over mobile** | (included in "Fundamentals of digital marketing") |
-| :three: | **Expand a business to other countries** | (included in "Fundamentals of digital marketing") |
-| :four: | **Get a business online** | (included in "Fundamentals of digital marketing") |
-| :five: | **Make sure customers find you online** | (included in "Fundamentals of digital marketing") |
-| :six: | **Promote a business with content** | (included in "Fundamentals of digital marketing") |
+| ord | Course| Module count | Note |
+| :---: | ------------- | :---: | -------------- |
+| :one: | **Fundamentals of digital marketing** | | (certificate provided) :scroll: |
+| :two: | **Connect with customers over mobile** | |(included in "Fundamentals of digital marketing") |
+| :three: | **Expand a business to other countries** | | (included in "Fundamentals of digital marketing") |
+| :four: | **Get a business online** | |(included in "Fundamentals of digital marketing") |
+| :five: | **Make sure customers find you online** | |(included in "Fundamentals of digital marketing") |
+| :six: | **Promote a business with content** | |(included in "Fundamentals of digital marketing") |
 
 <table>
   <tr>
