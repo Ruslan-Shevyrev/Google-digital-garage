@@ -57,7 +57,7 @@
 :x: C. Set a weekly management meeting\
 :heavy_check_mark: **D. Create a mobile device management policy**
 
-## :star: 3. Fill in the blank: Actionable insights can be described as explaining the ______ of an online marketing campaign.
+## :star: 3. What's the first step to planning your online business security?
 
 :heavy_check_mark: **A. 'Why'**\
 :x: B. 'How'\
