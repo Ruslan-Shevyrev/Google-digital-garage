@@ -40,3 +40,5 @@
 :x: Sending regular security updates to customers' spam boxes\
 :heavy_check_mark:**Using a reliable email provider**\
 :x: Ensuring her website has a high SEO ranking
+
+# :eight_pointed_black_star: Topic Quiz
