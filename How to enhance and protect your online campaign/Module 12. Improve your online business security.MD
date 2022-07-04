@@ -59,10 +59,10 @@
 
 ## :star: 3. What's the first step to planning your online business security?
 
-:heavy_check_mark: **A. 'Why'**\
-:x: B. 'How'\
-:x: C. 'When'\
-:x: D. 'Who'
+:x: A. Install security patches\
+:x: B. Tell customers how they can protect their data\
+:heavy_check_mark: **C. Identify your digital assets**\
+:x: D. Check the expiry date of all your software
 
 ## :star: 4. Which of the following is a benefit of using spreadsheets?
 
