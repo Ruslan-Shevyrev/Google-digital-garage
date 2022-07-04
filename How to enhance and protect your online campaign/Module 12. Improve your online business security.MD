@@ -66,7 +66,7 @@
 
 ## :star: 4. What's the main benefit of switching a website to HTTPS?
 
-:heavy_check_mark: **A. Vast quantities of data can be stored, sorted and analysed quickly**\
-:x: B. Data can only be accessed when all users are online\
-:x: C. Valuable customer and market insights can be delivered quickly\
-:x: D. Spreadsheets are the only way to collect data and extrapolate results
+:heavy_check_mark: **A. It means intruders won't understand the information being exchanged between the website and users’ browsers**\
+:x: B. It means the website can use responsive design and be more user-friendly\
+:x: C. It registers the website as a commercial site\
+:x: D. It tricks users into installing malware on their device, which can be harmful
