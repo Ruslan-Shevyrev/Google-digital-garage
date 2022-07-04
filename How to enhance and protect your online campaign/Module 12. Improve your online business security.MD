@@ -50,12 +50,12 @@
 :x: C. Encourage employees to share their passwords\
 :x: D. Tell employees to circulate any unsolicited emails they get
 
-## :star: 2. What makes the data cycle useful?
+## :star: 2. What can businesses do to stay safe and secure when employees have access to important company information on their laptops and other devices?
 
-:heavy_check_mark: **A. It helps you make the most of the data collected from marketing activities**\
-:x: B. It helps you evaluate your competition\
-:x: C. It provides information about what users like about your website\
-:x: D. It presents collected data in a visually appealing way
+:x: A. Install location trackers on all employee devices\
+:x: B. Setup a daily security update meeting\
+:x: C. Set a weekly management meeting\
+:heavy_check_mark: **D. Create a mobile device management policy**
 
 ## :star: 3. Fill in the blank: Actionable insights can be described as explaining the ______ of an online marketing campaign.
 
