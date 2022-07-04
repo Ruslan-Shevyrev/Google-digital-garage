@@ -46,9 +46,9 @@
 ## :star: 1. How might a business encourage its employees to think more seriously about security?
 
 :heavy_check_mark: **A. Set up regular training programs about security policies**\
-:x: B. Qualitative\
-:x: C. Holistic\
-:x: D. Customer
+:x: B. Ensure only the most important security breaches are recorded\
+:x: C. Encourage employees to share their passwords\
+:x: D. Tell employees to circulate any unsolicited emails they get
 
 ## :star: 2. What makes the data cycle useful?
 
