@@ -7,8 +7,8 @@ https://learndigital.withgoogle.com/digitalgarage/
 
 | ord | Course| Module count | Note |
 | :---: | ------------- | :---: | -------------- |
-| :one: | **Fundamentals of digital marketing** | | (certificate provided) :scroll: |
-| :two: | **Connect with customers over mobile** | |(included in "Fundamentals of digital marketing") |
+| :one: | **Fundamentals of digital marketing** | 26 + Exam | (certificate provided) :scroll: |
+| :two: | **Connect with customers over mobile** | 1 |(included in "Fundamentals of digital marketing") |
 | :three: | **Expand a business to other countries** | | (included in "Fundamentals of digital marketing") |
 | :four: | **Get a business online** | |(included in "Fundamentals of digital marketing") |
 | :five: | **Make sure customers find you online** | |(included in "Fundamentals of digital marketing") |
