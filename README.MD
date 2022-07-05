@@ -5,7 +5,7 @@
 link to courses:
 https://learndigital.withgoogle.com/digitalgarage/
 
-| ord | Course| Module count | Note |
+| No | Course| Module count | Note |
 | :---: | ------------- | :---: | -------------- |
 | :one: | **Fundamentals of digital marketing** | 26 + Exam | (certificate provided) :scroll: |
 | :two: | **Connect with customers over mobile** | 2 |(included in "Fundamentals of digital marketing") |
