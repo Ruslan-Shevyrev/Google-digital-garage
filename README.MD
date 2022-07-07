@@ -9,7 +9,7 @@ https://learndigital.withgoogle.com/digitalgarage/
 | :---: | ------------- | :---: | -------------- |
 | :one: | **Fundamentals of digital marketing** | 26 + Exam | (certificate provided) :scroll: |
 | :two: | **Connect with customers over mobile** | 2 |(included in "Fundamentals of digital marketing") |
-| :three: | **Expand a business to other countries** |ы 1 | (included in "Fundamentals of digital marketing") |
+| :three: | **Expand a business to other countries** | 1 | (included in "Fundamentals of digital marketing") |
 | :four: | **Get a business online** | |(included in "Fundamentals of digital marketing") |
 | :five: | **Make sure customers find you online** | |(included in "Fundamentals of digital marketing") |
 | :six: | **Promote a business with content** | |(included in "Fundamentals of digital marketing") |
