@@ -12,7 +12,7 @@ https://learndigital.withgoogle.com/digitalgarage/
 | :three: | **Expand a business to other countries** | 1 | (included in "Fundamentals of digital marketing") |
 | :four: | **Get a business online** | 7 |(included in "Fundamentals of digital marketing") |
 | :five: | **Make sure customers find you online** | 4 |(included in "Fundamentals of digital marketing") |
-| :six: | **Promote a business with content** | |(included in "Fundamentals of digital marketing") |
+| :six: | **Promote a business with content** | 4 |(included in "Fundamentals of digital marketing") |
 
 <table>
   <tr>
