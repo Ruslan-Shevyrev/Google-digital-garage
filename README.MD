@@ -13,6 +13,7 @@ https://learndigital.withgoogle.com/digitalgarage/
 | :four: | **Get a business online** | 7 |(included in "Fundamentals of digital marketing") |
 | :five: | **Make sure customers find you online** | 4 |(included in "Fundamentals of digital marketing") |
 | :six: | **Promote a business with content** | 4 |(included in "Fundamentals of digital marketing") |
+| :seven:| **Promote a business with online advertising** | 5 |(included in "Fundamentals of digital marketing") |
 
 <table>
   <tr>
