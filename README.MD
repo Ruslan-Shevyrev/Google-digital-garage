@@ -14,7 +14,7 @@ https://learndigital.withgoogle.com/digitalgarage/
 | :five: | **Make sure customers find you online** | 4 | Included in "Fundamentals of digital marketing" |
 | :six: | **Promote a business with content** | 4 | Included in "Fundamentals of digital marketing" |
 | :seven:| **Promote a business with online advertising** | 5 | Included in "Fundamentals of digital marketing" |
-| :eight:| **Understand customers needs and online behaviours**| 3 |(included in "Fundamentals of digital marketing") |
+| :eight:| **Understand customers needs and online behaviours**| 3 | Included in "Fundamentals of digital marketing" |
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
